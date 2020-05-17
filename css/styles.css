@@ -122,4 +122,5 @@ hr {
 .footer-link {
   margin: 50px 30px 50px 30px;
   color: Green;
+  text-decoration: none;
 }

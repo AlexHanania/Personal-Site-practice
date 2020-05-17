@@ -101,6 +101,12 @@ hr {
 
 }
 
+
+.btn:hover {
+  background-color: #2AF598;
+}
+
+
 .btn-text {
     color: white;
     text-decoration: none;
